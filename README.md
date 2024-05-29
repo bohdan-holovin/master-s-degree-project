@@ -1,0 +1,7 @@
+DATA BACKUP AS A SERVICE
+The object of the research is the creation of a platform that implements the concept of data backup as a service.
+The subject of the study is the methods and technologies of the development of a data backup as a service (BaaS) platform, in particular the use of Spring Boot, OpenFeign, React.js and Web3.
+The purpose of the work is to develop and implement a data backup platform as a service to optimize and automate the processes of backup storage and recovery of information.
+Research methods – analysis of modern methods and technologies of data backup, study of the possibilities of development tools such as Spring Boot for the server part, OpenFeign for working with the exchange of messages between the client and the server, and React.js for creating a user interface.
+The relevance of the work - in the modern information society, the importance of reliable and efficient data storage is growing. The development of a data backup platform as a service is relevant, as it provides an opportunity for enterprises and users to automate and optimize the processes of storing and restoring information. Especially taking into account the rapid development of cloud technologies and the need for data security
+The results of the work are a ready-made platform with implemented data backup functionality that can be used as a basis for further development and integrations. As well as a comparative analysis with existing solutions on the market and identification of the advantages of the proposed platform.
