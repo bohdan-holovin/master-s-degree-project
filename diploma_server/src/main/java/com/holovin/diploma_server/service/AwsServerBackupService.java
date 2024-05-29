@@ -34,8 +34,8 @@ import java.util.stream.Collectors;
 @Service
 public class AwsServerBackupService {
     private static final Logger logger = LoggerFactory.getLogger(AwsServerBackupService.class);
-    private String awsS3Bucket = "backupserviceholovin";
-    private String awsS3Key = "AKIAU6GDYBUOJXP4L3V5";
+    private String awsS3Bucket = "some";
+    private String awsS3Key = "some";
     private AmazonS3 s3Client;
 
     private static final String BACKUP_TEMP_DIRECTORY = "C:\\Projects\\Diploma\\diploma_server\\backup_temp/";
